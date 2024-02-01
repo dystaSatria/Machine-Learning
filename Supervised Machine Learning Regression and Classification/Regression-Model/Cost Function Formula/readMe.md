@@ -19,7 +19,7 @@ Where:
 - \( w \) and \( b \) are the model's parameters (weights and bias).
 
 
-![]()
+![](https://github.com/dystaSatria/Machine-Learning/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Regression-Model/Cost%20Function%20Formula/CostFunctionFormula.png)
 
 
 ## Purpose
