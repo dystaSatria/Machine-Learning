@@ -1,2 +1,3 @@
 # Cost Function Intuition
 
+![]()
