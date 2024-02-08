@@ -1,5 +1,8 @@
 # Visualizing the Cost Function
 
+<br>
+<br>
+
 <div align="center">
   
 ![](https://github.com/dystaSatria/Machine-Learning/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Regression-Model/Visualizing%20the%20Cost%20Function/Screenshot%20(968).png)
@@ -54,3 +57,14 @@ plt.show()
 ![](https://github.com/dystaSatria/Machine-Learning/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Regression-Model/Visualizing%20the%20Cost%20Function/Screenshot%20(970).png)
 
 </div>
+
+
+## Option Lab Installation
+
+- Download the sources like:
+  - C1_W1_Lab03_Cost_function_Soln.ipynb
+  - lab_utils_common.py
+  - lab_utils_uni.py
+ 
+- Open Google Collabs
+- Import the downloaded source
