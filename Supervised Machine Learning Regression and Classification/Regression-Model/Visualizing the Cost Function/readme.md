@@ -1,2 +1,3 @@
 # Visualizing the Cost Function
 
+![]()
