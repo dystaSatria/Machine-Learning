@@ -59,7 +59,11 @@ plt.show()
 </div>
 
 
-## Option Lab Installation
+## Option Lab 
+
+### Check the C1_W1_Lab03_Cost_function_Soln.ipynb
+
+### Installation
 
 - Download the sources like:
   - C1_W1_Lab03_Cost_function_Soln.ipynb
