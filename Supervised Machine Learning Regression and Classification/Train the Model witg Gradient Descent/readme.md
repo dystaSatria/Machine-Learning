@@ -18,6 +18,8 @@
 
 This summary underscores that understanding Gradient Descent is an important stepping stone in machine learning, providing a foundation for exploring further optimization techniques and their applications across various machine learning models.
 
+<br>
+<br>
 
 <div align="center">
 
