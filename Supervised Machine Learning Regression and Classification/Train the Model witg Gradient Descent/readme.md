@@ -19,8 +19,8 @@
 This summary underscores that understanding Gradient Descent is an important stepping stone in machine learning, providing a foundation for exploring further optimization techniques and their applications across various machine learning models.
 
 
-<div align="center>
+<div align="center">
 
-![](https://github.com/dystaSatria/Machine-Learning/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Train%20the%20Model%20witg%20Gradient%20Descent/Screenshot%20(973).png)
+![nnnn](https://github.com/dystaSatria/Machine-Learning/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Train%20the%20Model%20witg%20Gradient%20Descent/Screenshot%20(973).png)
 
 </div>
