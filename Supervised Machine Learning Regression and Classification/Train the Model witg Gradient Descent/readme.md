@@ -38,7 +38,6 @@ This summary underscores that understanding Gradient Descent is an important ste
 </div>
 
 <br>
-<br>
 
 <div align="center">
 
