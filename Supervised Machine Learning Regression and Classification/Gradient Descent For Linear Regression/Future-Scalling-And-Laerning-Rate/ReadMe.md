@@ -1,1 +1,1 @@
-# Future Scalling And Laerning Rate
+# Future Scalling And Learning Rate
