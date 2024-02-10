@@ -59,7 +59,7 @@ plt.show()
 </div>
 
 
-## Option Lab 
+## Option Code Lab 
 
 ### Check the C1_W1_Lab03_Cost_function_Soln.ipynb
 
