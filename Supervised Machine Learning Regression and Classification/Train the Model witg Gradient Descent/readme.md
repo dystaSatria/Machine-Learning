@@ -31,8 +31,19 @@ This summary underscores that understanding Gradient Descent is an important ste
 <br>
 <br>
 
+<div align="center">
 
 ![nnnn](https://github.com/dystaSatria/Machine-Learning/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Train%20the%20Model%20witg%20Gradient%20Descent/Screenshot%202024-02-10%20at%2012.31.40.png)
 
+</div>
 
+<br>
+<br>
+
+
+<div align="center">
+
+![nnnn](https://github.com/dystaSatria/Machine-Learning/blob/main/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Train%20the%20Model%20witg%20Gradient%20Descent/Screenshot%202024-02-10%20at%2012.31.40.png)
+
+</div>
 
