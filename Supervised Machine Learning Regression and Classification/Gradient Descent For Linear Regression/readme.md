@@ -25,7 +25,7 @@
 ### Installation
 
 - Download the sources like:
-  - C1_W1_Lab03_Cost_function_Soln.ipynb
+  - C1_W1_Lab04_Gradient_Descent_Soln.ipynb
   - lab_utils_common.py
   - lab_utils_uni.py
  
