@@ -1,1 +1,1 @@
-# Manchine Learning Documentations
+# Machine Learning Documentations
